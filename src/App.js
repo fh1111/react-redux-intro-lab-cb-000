@@ -43,4 +43,8 @@ const connectedComponent = connector(App)
 
 export default connectedComponent;
 
+<<<<<<< HEAD
 //export default App;
+=======
+export default App;
+>>>>>>> 23628f66c3201c85010b48a21a65579855abb2e4
